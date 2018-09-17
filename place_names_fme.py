@@ -6,7 +6,7 @@ This script is called on from within FME using the Python Caller function
 https://www.safe.com/transformers/python-caller/
 
 The purpose of this script is to concatenate multiple people fields into a single description field. 
-html formatting i added to improve display when a feature is returned using the place names geocortex site. 
+HTML formatting is added to improve display when a feature is returned using the place names geocortex site. 
 http://app.actmapi.act.gov.au/actmapi/index.html?viewer=pn
 
 """
