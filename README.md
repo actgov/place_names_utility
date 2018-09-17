@@ -1,6 +1,6 @@
 # Place Names
 
-### return_centroid(in_table, out_csv)
+### place_names.return_centroid(in_table, out_csv)
 
 This method calculates and returns the centre most point in a cluster
 of points. This is required to find the centremost node of a polyline
