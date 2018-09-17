@@ -1,6 +1,6 @@
 # place_names_utility
 
-"""
+
 This method calculates and returns the centre most point in a cluster
 of points. This is required to find the centremost node of a polyline
 which represents a road centreline. 
@@ -10,4 +10,3 @@ which represents a road centreline.
 
         place_names.return_centroid(in_table, out_csv)
 
-"""
